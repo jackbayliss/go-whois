@@ -7,7 +7,7 @@ A simple tool to look up the IP address for any domain using Go.
 
 ### Getting Started
 
-To easily get the latest release, use GoReleaser's pre-built binaries. You can download the appropriate release for your operating system from the [Releases](https://github.com/yourusername/go-whois/releases) page.
+To easily get the latest release, use GoReleaser's pre-built binaries. You can download the appropriate release for your operating system from the [Releases](https://github.com/jackbayliss/go-whois/releases) page.
 
 Alternatively, if you have Go installed, you can build it from source:
 
